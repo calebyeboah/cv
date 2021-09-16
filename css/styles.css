@@ -1,0 +1,41 @@
+.external-links {
+  text-align: center;
+}
+
+body {
+  background-color: #f9f9f9;
+}
+
+h1,
+h2,
+h3,
+th {
+  color: #a03bdf;
+}
+
+p,
+a,
+li,
+td {
+  color: #7f7c82;
+}
+
+img {
+  border: 1px solid #a14fd8;
+  border-radius: 50%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+body section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
