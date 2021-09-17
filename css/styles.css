@@ -1,9 +1,16 @@
+body,
+h1,
+h3 {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .external-links {
   text-align: center;
 }
 
 body {
-  background-color: #f9f9f9;
+  background-color: #ded9e2;
 }
 
 h1,
@@ -21,8 +28,10 @@ td {
 }
 
 img {
+
   border: 1px solid #a14fd8;
   border-radius: 50%;
+  height: 200px;
 }
 
 hr {
